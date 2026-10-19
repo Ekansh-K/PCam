@@ -1,0 +1,10 @@
+[Desktop Entry]
+Type=Application
+Name=PCam
+Comment=Connect your phone as a webcam over Wi-Fi Direct or shared Wi-Fi
+Exec=pcam
+Icon=pcam
+Terminal=false
+Categories=AudioVideo;Video;
+StartupNotify=false
+StartupWMClass=PCam

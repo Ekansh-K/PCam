@@ -1,0 +1,10 @@
+scratch/
+dist/
+__pycache__/
+*.py[cod]
+.env
+.env.*
+*.keystore
+*.jks
+*.pem
+*.key
